@@ -97,6 +97,15 @@ const Navbar = () => {
               {link.name}
             </Link>
           ))}
+               <a
+              href="https://constructor-dash.vercel.app/"
+              // تصميم الرابط في قائمة الهاتف
+              className="block px-3 py-2 rounded-md text-base font-medium text-white hover:bg-gray-700 hover:text-gold transition duration-200"
+              onClick={() => setIsOpen(false)} // إغلاق القائمة بعد النقر على الرابط
+            >
+              Dashboard
+            </a>
+              
         </div>
       </div>
     </nav>

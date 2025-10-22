@@ -35,7 +35,7 @@ const HomeSection = () => {
       <section id="about" className="py-24 bg-charcoal-black text-white">
           <div className="max-w-6xl mx-auto px-6">
               <h2 className="text-5xl font-bold text-gold mb-12 text-center">
-                  About SolidBuild Co.
+                  About MTCbuild Co.
               </h2>
               <div className="max-w-3xl mx-auto text-center">
                   <p className="text-xl leading-relaxed text-gray-300 mb-6">

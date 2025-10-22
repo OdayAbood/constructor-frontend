@@ -140,7 +140,7 @@ const HomeSection = () => {
 
       {/* Footer (Optional) */}
       <footer className="py-8 bg-black text-gray-500 text-center text-sm">
-        <p>&copy; {new Date().getFullYear()} SolidBuild Co. All rights reserved.</p>
+        <p>&copy; {new Date().getFullYear()} MTCbuild Co. All rights reserved.</p>
       </footer>
     </div>
   );

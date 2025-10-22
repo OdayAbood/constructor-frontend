@@ -20,7 +20,7 @@ const Navbar = () => {
         <div className="flex justify-between items-center h-16">      
           {/* 1. الشعار (Luxury Brand) */}
           <div className="flex-shrink-0 text-gold text-2xl font-bold tracking-wider">
-            LUXURY BRAND
+            MTC BRAND
           </div>   
           {/* 2. أيقونة القائمة (تظهر فقط على الشاشات الصغيرة) */}
           <div className="md:hidden flex items-center">

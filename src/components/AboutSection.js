@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 // النص الطويل الذي سيتم عرضه بتأثير الكتابة
 const fullText = 
-  "SolidBuild Co. is not just a construction company; we are partners in progress. For over 20 years, we have specialized in delivering high-end, bespoke architectural solutions, ranging from state-of-the-art commercial centers to landmark residential estates. Our mission transcends mere structural integrity—we build with precision, commitment, and a golden standard of client satisfaction. We believe in engineering spaces that define the future.";
+  "MTCbuild Co. is not just a construction company; we are partners in progress. For over 20 years, we have specialized in delivering high-end, bespoke architectural solutions, ranging from state-of-the-art commercial centers to landmark residential estates. Our mission transcends mere structural integrity—we build with precision, commitment, and a golden standard of client satisfaction. We believe in engineering spaces that define the future.";
 
 const AboutSection = () => {
   const [displayText, setDisplayText] = useState('');

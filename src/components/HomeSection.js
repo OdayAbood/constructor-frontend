@@ -120,7 +120,7 @@ const HomeSection = () => {
       <section id="contact" className="py-24 bg-gray-100 text-charcoal-black">
           <div className="max-w-6xl mx-auto px-6">
               <h2 className="text-5xl font-bold text-charcoal-black mb-12 text-center">
-                  Connect with SolidBuild Co.
+                  Connect with MTCbuild Co.
               </h2>
               
               <div className="grid md:grid-cols-2 gap-12">

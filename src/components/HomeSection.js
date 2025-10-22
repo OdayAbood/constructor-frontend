@@ -39,7 +39,7 @@ const HomeSection = () => {
               </h2>
               <div className="max-w-3xl mx-auto text-center">
                   <p className="text-xl leading-relaxed text-gray-300 mb-6">
-                      SolidBuild Co. was founded two decades ago on the pillars of **integrity, innovation, and unwavering client partnership**. Our mission is simple: to redefine the construction experience by delivering complex projects—from high-rise commercial facilities to bespoke residential estates—with unmatched efficiency and quality.
+                      MTCbuild Co. was founded two decades ago on the pillars of **integrity, innovation, and unwavering client partnership**. Our mission is simple: to redefine the construction experience by delivering complex projects—from high-rise commercial facilities to bespoke residential estates—with unmatched efficiency and quality.
                   </p>
                   <p className="text-lg leading-relaxed text-steel-gray">
                       We believe that true craftsmanship is non-negotiable. Our experienced team of engineers, project managers, and certified tradesmen ensures every detail reflects the highest standard of structural and aesthetic perfection. Choose SolidBuild Co. for a partner who builds with certainty.

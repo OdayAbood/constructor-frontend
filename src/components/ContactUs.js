@@ -5,7 +5,7 @@ const ContactUs = ()=>{
          <section id="contact"  className="p-8 bg-black border border-gray-800 rounded-xl shadow-2xl transition duration-500 ease-in-out h-screen w-full">
           <div className="max-w-6xl mx-auto px-6 mt-36 bg-white rounded-3xl sm:h-96">
               <h2 className="text-xl md:text-4xl font-bold text-charcoal-black mb-12 text-center">
-                  Connect with SolidBuild Co.
+                  Connect with MTCbuild Co.
               </h2>
               
               <div className="grid md:grid-cols-2 gap-12">
